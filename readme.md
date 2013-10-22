@@ -32,15 +32,17 @@ $.scrollDepth({
 Tested in Chrome (18), Firefox (8), Safari (5), Opera (10), IE (7-10). Also tested on iOS, Opera Mobile, and a few Android emulators.
 
 ## Contact
-If you have any questions please leave a comment on the [associated blog post](http://www.ravelrumba.com/blog/tracking-scroll-depth-jquery-google-analytics/) or find me on Twitter at [@robflaherty](https://twitter.com/#!/robflaherty).
+If you have any questions please leave a comment on Rob Flaherty's [blog post](http://www.ravelrumba.com/blog/tracking-scroll-depth-jquery-google-analytics/) or find me on Twitter at [@whatterz](https://twitter.com/whatterz).
 
 ## Changelog
 
-0.1.2 (5/29/12): Added GA User Timing events to allow time tracking for scroll points.
+0.1.3 (22/10/2013): Updated to use Google's Universal Analytics' methods
 
-0.1.1 (4/12/12): Added `opt_noninteraction` option to GA event to avoid impacting bounce rate.
+0.1.2 (29/05/2012): Added GA User Timing events to allow time tracking for scroll points.
 
-0.1 (4/7/12): Initial release.
+0.1.1 (12/04/2012): Added `opt_noninteraction` option to GA event to avoid impacting bounce rate.
+
+0.1 (07/04/2012): Initial release.
 
 ## License
 Licensed under the MIT and GPL licenses.
